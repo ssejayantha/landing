@@ -10,7 +10,7 @@ function Header() {
 
         {/* Logo */}
         <div className="text-2xl font-bold text-blue-600">
-          React Js
+          Logo 
         </div>
 
         {/* Desktop Menu */}
